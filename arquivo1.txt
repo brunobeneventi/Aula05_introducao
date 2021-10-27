@@ -1,2 +1,3 @@
 conteúdo do arquivo 1 
 adicionando nova linha para o conteudo do arquivo 1
+Usuario B alterando o conteudo do arquivo 1 também
